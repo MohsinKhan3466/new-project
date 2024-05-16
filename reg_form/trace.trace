@@ -1,0 +1,1 @@
+{"version":5,"type":"context-options","browserName":"chromium","options":{"acceptDownloads":"accept","viewport":{"width":1280,"height":720}},"platform":"win32","wallTime":1702878598144,"sdkLanguage":"java","testIdAttributeName":"data-testid"}
